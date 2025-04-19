@@ -1,0 +1,197 @@
+[
+    {
+        "category": "Bananas",
+        "footprint": 0.5,
+        "alt": "Use local produce"
+    },
+    {
+        "category": "Plastic Bottle",
+        "footprint": 0.3,
+        "alt": "Use steel or glass bottles"
+    },
+    {
+        "category": "Toilet Paper",
+        "footprint": 1.5,
+        "alt": "Use bamboo-based products"
+    },
+    {
+        "category": "Eggs",
+        "footprint": 4.8,
+        "alt": "Try flax eggs or plant-based alternatives"
+    },
+    {
+        "category": "Pizza",
+        "footprint": 4.5,
+        "alt": "Try homemade veggie pizza"
+    },
+    {
+        "category": "Mobile Phone",
+        "footprint": 70.0,
+        "alt": "Buy refurbished phones"
+    },
+    {
+        "category": "Burger",
+        "footprint": 5.0,
+        "alt": "Switch to plant-based burgers"
+    },
+    {
+        "category": "Pen",
+        "footprint": 0.4,
+        "alt": "Use refillable pens"
+    },
+    {
+        "category": "Chicken",
+        "footprint": 6.9,
+        "alt": "Try tofu or seitan"
+    },
+    {
+        "category": "Potatoes",
+        "footprint": 0.3,
+        "alt": "Great choice!"
+    },
+    {
+        "category": "Ice Cream",
+        "footprint": 2.8,
+        "alt": "Try fruit sorbets"
+    },
+    {
+        "category": "Tea",
+        "footprint": 0.9,
+        "alt": "Use loose leaf tea"
+    },
+    {
+        "category": "Rice",
+        "footprint": 2.7,
+        "alt": "Use local millets or quinoa"
+    },
+    {
+        "category": "Shampoo",
+        "footprint": 1.2,
+        "alt": "Try bar shampoo"
+    },
+    {
+        "category": "Apples",
+        "footprint": 0.2,
+        "alt": "Stick to seasonal fruits"
+    },
+    {
+        "category": "Chocolate",
+        "footprint": 4.2,
+        "alt": "Moderate your intake"
+    },
+    {
+        "category": "Milk",
+        "footprint": 3.2,
+        "alt": "Try oat or almond milk"
+    },
+    {
+        "category": "Onions",
+        "footprint": 0.5,
+        "alt": "Use fresh local produce"
+    },
+    {
+        "category": "Detergent",
+        "footprint": 2.0,
+        "alt": "Use eco-friendly brands"
+    },
+    {
+        "category": "Printer Paper",
+        "footprint": 5.0,
+        "alt": "Use recycled paper"
+    },
+    {
+        "category": "Coffee",
+        "footprint": 3.5,
+        "alt": "Reduce coffee waste"
+    },
+    {
+        "category": "Beef",
+        "footprint": 27.0,
+        "alt": "Try lentils or tofu"
+    },
+    {
+        "category": "Cotton T-shirt",
+        "footprint": 2.5,
+        "alt": "Use recycled fabric"
+    },
+    {
+        "category": "Tomatoes",
+        "footprint": 1.1,
+        "alt": "Use seasonal vegetables"
+    },
+    {
+        "category": "Butter",
+        "footprint": 11.9,
+        "alt": "Use plant-based margarine or oils"
+    },
+    {
+        "category": "Soap",
+        "footprint": 1.0,
+        "alt": "Use refillable bottles"
+    },
+    {
+        "category": "Wheat Bread",
+        "footprint": 1.1,
+        "alt": "Use wholegrain or sourdough options"
+    },
+    {
+        "category": "Yogurt",
+        "footprint": 2.2,
+        "alt": "Try coconut or soy yogurt"
+    },
+    {
+        "category": "Lettuce",
+        "footprint": 0.4,
+        "alt": "Try kale or cabbage"
+    },
+    {
+        "category": "Lamb",
+        "footprint": 39.2,
+        "alt": "Switch to mushrooms or pulses"
+    },
+    {
+        "category": "Avocados",
+        "footprint": 2.0,
+        "alt": "Reduce import-heavy produce"
+    },
+    {
+        "category": "Shoes",
+        "footprint": 10.0,
+        "alt": "Choose eco-friendly brands"
+    },
+    {
+        "category": "Biscuits",
+        "footprint": 1.6,
+        "alt": "Try homemade snacks"
+    },
+    {
+        "category": "Jeans",
+        "footprint": 6.0,
+        "alt": "Try sustainable denim"
+    },
+    {
+        "category": "Cheese",
+        "footprint": 13.5,
+        "alt": "Try vegan cheese"
+    },
+    {
+        "category": "Fries",
+        "footprint": 1.8,
+        "alt": "Try baked sweet potato fries"
+    },
+    {
+        "category": "Chips",
+        "footprint": 2.0,
+        "alt": "Try roasted chickpeas"
+    },
+    {
+        "category": "Notebook",
+        "footprint": 2.0,
+        "alt": "Use digital notes"
+    },
+    {
+        "category": "Laptop",
+        "footprint": 200.0,
+        "alt": "Use longer before replacing"
+    }
+] 
